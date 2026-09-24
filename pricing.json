@@ -1,0 +1,12 @@
+{
+  "repo": "seedream4.5-seedream-4.5-api",
+  "model": "seedream-4-5",
+  "display": "Seedream 4.5",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "default": 0.026
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
