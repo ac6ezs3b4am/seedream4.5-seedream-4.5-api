@@ -2,7 +2,7 @@
 
 > **default $0.026** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-8112e5)** · **[Get an API key](https://go.apimart.ai/k-1c074f)**
 
 Everything here refers to **seedream-4.5** — also written **seedream4.5** or **seedream 4.5**.
 
